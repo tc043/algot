@@ -1,0 +1,6 @@
+pandas
+lightgbm
+alpaca-trade-api
+ta
+joblib
+pytz
