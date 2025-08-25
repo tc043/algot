@@ -9,7 +9,6 @@ import pytz
 from ta.momentum import RSIIndicator
 from ta.trend import MACD
 from ta.volatility import BollingerBands
-from kaggle_secrets import UserSecretsClient
 API_KEY = os.environ.get('APCA_API_KEY_ID')
 SECRET_KEY = os.environ.get('APCA_API_SECRET_KEY')
 
